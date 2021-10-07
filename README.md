@@ -1,2 +1,1 @@
-# test1
-test1
+# CryptoRight Blockchain Copyright System
